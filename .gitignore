@@ -1,0 +1,50 @@
+# 🔹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual environment
+venv/
+env/
+.venv/
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE files
+.vscode/
+.idea/
+
+# 🔹 Build / dist
+build/
+dist/
+*.egg-info/
+
+
+
+# 🔹 Model files (ML)
+*.pkl
+*.h5
+*.joblib
+
+# 🔹 Temporary files
+*.tmp
+*.bak
+
+.lightning_studio/
+.streamlit/
+.zip*
+.cursor-server
+.windsurf-server
+.vscode-server

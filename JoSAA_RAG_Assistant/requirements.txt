@@ -1,0 +1,10 @@
+lxml
+pandas
+streamlit
+torch
+google-generativeai
+transformers
+huggingface_hub
+sentencepiece
+# psycopg2
+psycopg2-binary
